@@ -1,1 +1,4 @@
-# Main instructions for this template.
+# Phoenix app: scaling-octo-dollop
+
+# scaling-octo-dollop is so cool.
+# Repo description: phoenix.
